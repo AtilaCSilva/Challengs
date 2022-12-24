@@ -1,0 +1,29 @@
+// ========RESET==========
+
+body,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// ======= style config ========
+:root {
+  --body-bg-color: #22212c;
+  --text-color: #837e9f;
+  --bg-cards: #302f3d;
+  --bg-techs: #cb92b1;
+}
+
+body {
+  height: 100%;
+  font-family: 'Merriweather Sans', sans-serif;
+  background-color: #22212c;
+  color: #837e9f;
+}
+
+// ======= GERAL =======
+
+.header {
+  background-color: #302f3d;
+}
